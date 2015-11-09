@@ -1,0 +1,91 @@
+.navbar {
+	margin-bottom: 0px;
+	background-color: #04587e;
+	border: none;
+	border-radius: 0px;
+}
+
+.navbar-default .navbar-brand  {
+	color: white;
+}
+
+.navbar-default .navbar-form {
+	border: none;
+	margin: 0px;
+}
+.navbar-default .navbar-brand:hover  {
+	color: lightgray;
+}
+
+.btn-nav {
+	border-radius: 0px;
+	padding: 14px 15px;
+}
+
+#login-content {
+  display: none;
+  position: absolute;
+  top: 50px;
+  right: 23px;
+  width: 215px;
+  z-index: 999;    
+  background: #fff;
+  background-image: linear-gradient(top, #fff, #eee);  
+  padding: 15px 0px 15px 0px;
+  box-shadow: 0 0px 15px 1px #888888;
+  border-radius: 0 0 5px 5px;
+
+  //box-shadow: 10px 10px 5px #888888;
+}
+
+#password1 {
+	margin-top: 6px;
+}
+
+#submit {
+	margin-top: 5px;
+	float: right;
+}
+
+.main-header {
+	min-height: 570px;
+	background: url('../images/bg28.jpg') no-repeat;
+	color: white;
+	text-align: center;
+}
+
+.header-text {
+	margin-top: 325px;
+}
+
+.slogan {
+	//font-weight: bold;
+}
+
+.jumbotron{
+	margin-bottom: 0px;
+	//padding: 0px;
+}
+
+.my-btn {
+	background-color: #04587e;
+	border-color: #042635;
+	color: white;
+}
+
+.my-btn:hover {
+	color: #c6ced2;
+}
+.alert {
+	margin-bottom: 5px;
+}
+
+.footer {
+	background-color: #000000;
+	padding: 10px 0px 0px 0px;
+	color: white;
+}
+
+.footer a {
+	color: white;
+}
